@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать! / Welcome
 
 You can use the [editor on GitHub](https://github.com/sandrey777/vistautilitiespack/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
